@@ -167,7 +167,7 @@ function App() {
               
               <div className="space-y-4">
                 <h3 className="text-2xl font-bold text-emerald-400 border-b border-emerald-400/30 pb-2">Medical Evidence</h3>
-                <a href="#" target="_blank" rel="noopener noreferrer" className="block p-4 bg-slate-800 hover:bg-slate-700 rounded-xl transition-colors border border-slate-700 hover:border-emerald-400">
+                <a href="https://youtu.be/UGqGyLohcPs" target="_blank" rel="noopener noreferrer" className="block p-4 bg-slate-800 hover:bg-slate-700 rounded-xl transition-colors border border-slate-700 hover:border-emerald-400">
                   <strong className="block text-lg mb-1">DNA Lab Report (SEA Deletion POSITIVE)</strong>
                   <span className="text-emerald-400 font-medium text-sm inline-flex items-center">Open Link &rarr;</span>
                 </a>
