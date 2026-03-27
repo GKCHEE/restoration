@@ -193,15 +193,16 @@ function App() {
               <div className="space-y-4 md:col-span-2">
                 <h3 className="text-2xl font-bold text-sky-400 border-b border-sky-400/30 pb-2">Stolen Destiny Documents</h3>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer" className="block p-4 bg-slate-800 hover:bg-slate-700 rounded-xl transition-colors border border-slate-700 hover:border-sky-400">
+                  <a href="https://drive.google.com/drive/folders/1Tn5BKqk0ebrOCVTipOm4oaJJuSYhMCN6?usp=sharing
+" target="_blank" rel="noopener noreferrer" className="block p-4 bg-slate-800 hover:bg-slate-700 rounded-xl transition-colors border border-slate-700 hover:border-sky-400">
                     <strong className="block text-base mb-1">Singapore Citizenship & PR Status Papers</strong>
                     <span className="text-sky-400 font-medium text-sm inline-flex items-center">Open Link &rarr;</span>
                   </a>
-                  <a href="#" target="_blank" rel="noopener noreferrer" className="block p-4 bg-slate-800 hover:bg-slate-700 rounded-xl transition-colors border border-slate-700 hover:border-sky-400">
+                  <a href="https://drive.google.com/file/d/1PznakxiVF8KA_lphLYKzaMma4S_BRN51/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="block p-4 bg-slate-800 hover:bg-slate-700 rounded-xl transition-colors border border-slate-700 hover:border-sky-400">
                     <strong className="block text-base mb-1">Official Document Verification Video</strong>
                     <span className="text-sky-400 font-medium text-sm inline-flex items-center">Watch Video &rarr;</span>
                   </a>
-                  <a href="#" target="_blank" rel="noopener noreferrer" className="block p-4 bg-slate-800 hover:bg-slate-700 rounded-xl transition-colors border border-slate-700 hover:border-sky-400">
+                  <a href="https://drive.google.com/drive/folders/1ic9NwlrAZ2bFUq03liEcowwgiaOi_gHz?usp=sharing" target="_blank" rel="noopener noreferrer" className="block p-4 bg-slate-800 hover:bg-slate-700 rounded-xl transition-colors border border-slate-700 hover:border-sky-400">
                     <strong className="block text-base mb-1">NCC Diploma Credentials</strong>
                     <span className="text-sky-400 font-medium text-sm inline-flex items-center">Open Link &rarr;</span>
                   </a>
@@ -217,14 +218,7 @@ function App() {
         <section className="text-center bg-white rounded-3xl p-10 md:p-16 shadow-[0_20px_50px_rgba(245,158,11,0.15)] border-2 border-gold-vibrant relative overflow-hidden group">
           <div className="absolute inset-0 bg-gold-vibrant/5 group-hover:bg-gold-vibrant/10 transition-colors duration-500"></div>
           <h2 className="text-4xl font-extrabold text-emerald-justice mb-10 relative z-10">Primary Justice Action</h2>
-          <a 
-            href="https://clinquant-macaron-aad92f.netlify.app/" 
-            target="_blank" 
-            rel="noopener noreferrer"
-            className="relative z-10 inline-block bg-gold-vibrant text-white font-black text-xl md:text-2xl py-5 px-10 md:px-14 rounded-full shadow-[0_0_25px_rgba(245,158,11,0.7)] hover:shadow-[0_0_40px_rgba(245,158,11,0.9)] hover:scale-105 transition-all duration-300 mb-8 tracking-wider"
-          >
-            OPEN MY PAYMENT PORTAL (WEB APP)
-          </a>
+          
           <p className="text-xl md:text-2xl text-slate-800 font-bold relative z-10">
             My Payment Portal (Web App): <a href="https://clinquant-macaron-aad92f.netlify.app/" target="_blank" rel="noopener noreferrer" className="underline text-emerald-600 hover:text-emerald-500 transition-colors uppercase decoration-4 underline-offset-4">Contribute</a>
           </p>
