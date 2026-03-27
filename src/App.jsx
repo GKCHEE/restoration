@@ -167,11 +167,11 @@ function App() {
               
               <div className="space-y-4">
                 <h3 className="text-2xl font-bold text-emerald-400 border-b border-emerald-400/30 pb-2">Medical Evidence</h3>
-                <a href="https://youtu.be/UGqGyLohcPs" target="_blank" rel="noopener noreferrer" className="block p-4 bg-slate-800 hover:bg-slate-700 rounded-xl transition-colors border border-slate-700 hover:border-emerald-400">
+                <a href="https://drive.google.com/drive/folders/1lnF3L5VJ8GPTPgDwptPCsfwbZKNGVwH2?usp=sharing" target="_blank" rel="noopener noreferrer" className="block p-4 bg-slate-800 hover:bg-slate-700 rounded-xl transition-colors border border-slate-700 hover:border-emerald-400">
                   <strong className="block text-lg mb-1">DNA Lab Report (SEA Deletion POSITIVE)</strong>
                   <span className="text-emerald-400 font-medium text-sm inline-flex items-center">Open Link &rarr;</span>
                 </a>
-                <a href="#" target="_blank" rel="noopener noreferrer" className="block p-4 bg-slate-800 hover:bg-slate-700 rounded-xl transition-colors border border-slate-700 hover:border-emerald-400">
+                <a href="https://drive.google.com/file/d/1JNuAGlV5zIkYNpFaEq7QR9_mzTJT_4M5/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="block p-4 bg-slate-800 hover:bg-slate-700 rounded-xl transition-colors border border-slate-700 hover:border-emerald-400">
                   <strong className="block text-lg mb-1">Medical Video Breakdown</strong>
                   <span className="text-emerald-400 font-medium text-sm inline-flex items-center">Watch Video &rarr;</span>
                 </a>
@@ -179,11 +179,12 @@ function App() {
 
               <div className="space-y-4">
                 <h3 className="text-2xl font-bold text-gold-vibrant border-b border-gold-vibrant/30 pb-2">Financial & Forensic</h3>
-                <a href="#" target="_blank" rel="noopener noreferrer" className="block p-4 bg-slate-800 hover:bg-slate-700 rounded-xl transition-colors border border-slate-700 hover:border-gold-vibrant">
+                <a href="https://youtu.be/UGqGyLohcPs" target="_blank" rel="noopener noreferrer" className="block p-4 bg-slate-800 hover:bg-slate-700 rounded-xl transition-colors border border-slate-700 hover:border-gold-vibrant">
                   <strong className="block text-lg mb-1">The $90,000 CPF Fraud Evidence</strong>
                   <span className="text-gold-vibrant font-medium text-sm inline-flex items-center">Watch Video &rarr;</span>
                 </a>
-                <a href="#" target="_blank" rel="noopener noreferrer" className="block p-4 bg-slate-800 hover:bg-slate-700 rounded-xl transition-colors border border-slate-700 hover:border-gold-vibrant">
+                <a href="https://drive.google.com/drive/folders/1qKL4tcENJiRl6-7bYT8JEL6YrYdAoC9U?usp=sharing
+" target="_blank" rel="noopener noreferrer" className="block p-4 bg-slate-800 hover:bg-slate-700 rounded-xl transition-colors border border-slate-700 hover:border-gold-vibrant">
                   <strong className="block text-lg mb-1">Forensic Transaction Records</strong>
                   <span className="text-gold-vibrant font-medium text-sm inline-flex items-center">Open Link &rarr;</span>
                 </a>
